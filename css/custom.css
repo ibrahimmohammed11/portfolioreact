@@ -9,7 +9,22 @@
   cursor: pointer;
 }
 .imgSty2 {
-  width: 100%;
-  height: 300px;
+  width: 150px;
+  height: 150px;
   cursor: pointer;
+  border-radius: 12px;
+  margin-right: 10px;
+}
+.cardStyle {
+  background-color: #ccc;
+  border-radius: 12px;
+  padding: 10px;
+}
+.linksTxt h4 {
+  font-size: 16px;
+}
+
+.linksTxt h3 {
+  font-size: 14px;
+  font-weight: bolder !important;
 }
